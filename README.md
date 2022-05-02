@@ -31,7 +31,7 @@ This repo contains a series of guided tutorials to perform various tasks in Comp
 
 
 ## Acknowledgements
-- Many thanks to [@MBender](https://mbender.github.io/) who helped me with the Macaulay technicalities in designing many of the tutorials above.
+- Many thanks to [@MBender](https://mbender.github.io/) who helped me designing some of the above tutorials.
 
 
 ## Contact
